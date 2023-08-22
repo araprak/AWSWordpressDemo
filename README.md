@@ -11,3 +11,5 @@ Step 2.
 Created an Elastic IP address and associated it with the EC2 instance to ensure a static IP address is maintained instead of a dynamic address. (This is because whenever the said EC2 instance is rebooted the IPv4 and DNS address changes. Hence I used the Elastic IP address protocol.)
 
 Step 3.
+I SSH to the EC2 Instance and installed Apache2 software as it was compatible, modular and easily customizable, and had a lot of security such as SSL/TLS Certification Support with the WordPress application.
+
