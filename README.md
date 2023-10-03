@@ -1,4 +1,4 @@
-# Hosting a Wordpress webpage using AWS services
+# A Cloud-Based WordPress Blog: A Step-by-Step Tutorial
 
 Project: Creating a WordPress blog page accessible all over the globe using AWS EC2, Elastic IP, Apache2, and MySQL
 Link to access the website:  http://13.234.39.173/wordpress/
